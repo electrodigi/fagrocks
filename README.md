@@ -1,2 +1,2 @@
 # fagrocks
-<h2>Comming soon!</h2>
+<h2>Coming soon!</h2>
